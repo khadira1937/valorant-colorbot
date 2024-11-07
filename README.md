@@ -70,5 +70,3 @@ String split(String data, char separator, int index)
 }
 
 ```
-
-
